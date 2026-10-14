@@ -17,3 +17,14 @@ Used gemini for a general idea of what i need, never done audio before it gave m
 
 **Total time spent: 0.5 hours**
 
+# October 14: SquareLine Studio UI work
+
+Although i have never used SquareLine Studio before i looked up some tutorials on how to use the program and made a rough ui which will be greatly improved but i wanted to include the main features.
+for reset and power off i added secondary screens to make sure someone dosnt turn off accidently. i added the bluetooth connection screen and a playing now screen which isnt finshed yet
+settings menu is difficult but think it will be possible on 1 screen.
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/d52657d7-7758-4eef-b0b9-b9a45d39bc20" />
+
+
+**Total time spent: 1.5 hours**
+
